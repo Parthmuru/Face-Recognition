@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    color: white;
+}
+ .name_of_humans, #result_mem, #result_acc {
+    color: green;
+ }
+  .heading {
+    font-size:22px;
+    width: 80%;
+  }
+  #camera{
+      border:2px black dashed;
+      width: 350px;
+      height:300px;
+  }
